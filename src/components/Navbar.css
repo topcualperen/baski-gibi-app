@@ -1,0 +1,28 @@
+.nav-class {
+     padding: 30px 7%;
+     top: 0;
+     width: 100%;
+     z-index: 1;
+     
+}
+
+.logo {
+     cursor: pointer;
+     width: 120px;
+     background-color: black;
+}
+
+.logo a {
+     text-decoration: none;
+}
+
+
+.nav-class * {
+     color: rgb(0, 0, 0);
+}
+
+.nav-class .logo a {
+     color: rgb(255, 255, 255);
+     font-size: 27px;
+     font-style: bold;
+}
