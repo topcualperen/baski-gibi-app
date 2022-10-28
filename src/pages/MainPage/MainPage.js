@@ -16,7 +16,7 @@ const MainPage = () => {
                    Kişiye Özel Tasarım
              </h1>
              <br/>
-             
+                  
 
          </div>
        </div>

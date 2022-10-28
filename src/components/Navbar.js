@@ -5,11 +5,15 @@ const Navbar = () => {
      return (
           <nav className="nav-class">
                <div className="logo">
-               <a href="http://localhost:3000/">
-                        <h5>
-                            Baskı Gibi     
-                        </h5>
-                    </a>
+               <ul>
+                    <li><a href="#">Tüm Ürünler</a></li>
+                    <li><a href="#">Kartvizit</a></li>
+                    <li><a href="#">Çıkartma</a></li>
+                    <li><a href="#">Poster</a></li>
+                    <li><a href="#">Afiş</a></li>
+                    <li><a href="#">İletişim</a></li>
+                    <li><a href="#">Hakkında</a></li>
+               </ul>
                </div>
                
           </nav>
